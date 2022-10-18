@@ -1,0 +1,1 @@
+This project exemplifies the printf function in C-programming language. Considering the great importance of this function in printing out formatted output, we consider the inner workings and power applications of it.
